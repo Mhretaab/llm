@@ -1,2 +1,5 @@
 models/
 venv/
+finetuned/
+my_finetuned_files/
+results/
